@@ -121,8 +121,6 @@
                         }
                     %>
                 </select>
-
-
                 <input type="submit" value="Confirmar">
             </form>
         </div>

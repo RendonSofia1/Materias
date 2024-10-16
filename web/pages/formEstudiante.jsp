@@ -95,7 +95,6 @@
                     <option value="Contaduria">Contaduria</option>
                     <option value="Contaduria">Ambiental</option>
                 </select>
-
                 <input type="submit" value="Confirmar">
             </form>
         </div>
